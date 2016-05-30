@@ -154,11 +154,11 @@ class AquaticPlantGroup extends THREE.Object3D {
    * @param {number} time Time
    */
   update( time ) {
-    for ( let i = 0; i < this.smallPlants.length; i++) {
+    for ( let i = 0; i < this.smallPlants.length; i++ ) {
       this.smallPlants[ i ].update( time );
     }
 
-    for ( let i = 0; i < this.bigPlants.length; i++) {
+    for ( let i = 0; i < this.bigPlants.length; i++ ) {
       this.bigPlants[ i ].update( time );
     }
   }
