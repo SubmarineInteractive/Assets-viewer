@@ -2,6 +2,8 @@
 
 WebGL assets viewer used during the development phase of [Luxoperon](https://github.com/SubmarineInteractive/Lux-Operon/) project.
 
+Demo : [http://assets.luxoperon.io/](http://assets.luxoperon.io/)
+
 ![Assets viewer](https://i.imgsafe.org/bf2877d1b4.png)
 
 It allows to quickly switch between game asset's and modify multiple parameters like 'Fog', 'Post-processing', etc...
